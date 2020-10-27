@@ -1,0 +1,2 @@
+// Only change code below this line
+var myArray = [["String1",1],["String2",2]];
